@@ -224,7 +224,7 @@ let showStatus = () => {
   }
 }
 
-/** @returns {Number} The score of the Hand. */
+/** @returns {Number} The score. */
 let getScore = cardArray => {
   let score = 0;
   let hasAce = false;
