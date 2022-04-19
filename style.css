@@ -1,0 +1,13 @@
+body {
+    background-color: #1e1e1e;
+    color: #fff;
+}
+
+header {
+    height: 3rem;
+    background-color: #fff;
+    color: #1e1e1e;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
