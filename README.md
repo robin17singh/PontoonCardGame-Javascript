@@ -14,6 +14,6 @@ Rule:
 The player must have a higher scoring hand than the dealer to win, otherwise the dealer wins.
 
 Execution of code:
-Just open index.html in browser.
+Just open index.html in browser or using Inspect Element feature in browser.
 
 
